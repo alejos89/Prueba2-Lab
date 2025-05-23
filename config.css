@@ -12,4 +12,8 @@ html{
 
 body{
     margin: auto;
+    width: 100%;
+    max-width: 40rem;
+    height: 100vh;
+    border: 1px solid black;
 }

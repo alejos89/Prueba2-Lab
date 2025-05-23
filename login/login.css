@@ -1,0 +1,13 @@
+.inicio, .inicio a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+   
+}
+
+.inicio img {
+    width: 35%;
+
+}
+
