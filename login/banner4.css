@@ -47,7 +47,7 @@
  
 }
 
-.caja-puntos .punto1{
+.caja-puntos .punto4{
     background-color: #FF7266;
 }
 
@@ -62,10 +62,10 @@
     font-size: 1rem;
     color: white;
     text-decoration: none;
-    
 }
 
 .btn-skip{
+    
     color: #646982;
     font-size: 1rem;
     padding: 1.3rem 0;
